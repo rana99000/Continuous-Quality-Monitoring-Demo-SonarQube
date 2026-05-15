@@ -1,20 +1,8 @@
-password = "123456"
-
 def login():
-    x = 0
-    if True:
-        if True:
-            if True:
-                print("Welcome")
-    print(password)
+    print("Welcome")
 
-def login2():
-    x = 0
-    if True:
-        if True:
-            if True:
-                print("Welcome")
-    print(password)
+def login_user():
+    print("User logged in successfully")
 
 login()
-login2()
+login_user()
